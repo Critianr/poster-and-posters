@@ -8,7 +8,7 @@ function Header(){
           <img src="#" alt="logo" width="50" height="30 " />
          
         </NavLink>
-        <NavLink className='logo-title' to="/">Guagua Animalitos</NavLink>
+        <NavLink className='logo-title' to="/">Poseter y mas</NavLink>
         </div>
         <div className="icons-followers">
           <ul>
