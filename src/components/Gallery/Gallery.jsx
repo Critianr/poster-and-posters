@@ -4,7 +4,7 @@ function Gallery(){
     return(
         <>
         <div className="container-gallery">
-            <h1>Galleria Random</h1>
+           <NavLink><h1>Galleria Random</h1></NavLink>
         </div>
         </>
     )
