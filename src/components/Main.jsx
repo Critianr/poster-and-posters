@@ -2,6 +2,8 @@ import { Gallery } from './Gallery/Gallery'
 import { Customize } from './Customize/Customize'
 import { Curiosities } from './Curiosities/Curiosities'
 import './main.css'
+import { Pictures } from './Pictures/Pictures'
+import { Footer } from './Footer/Footer'
 
 function Main(){
     return(
@@ -18,6 +20,8 @@ function Main(){
         <Gallery />
         <Customize />
         <Curiosities />
+        <Pictures />
+        <Footer />
         </>
     )
 }

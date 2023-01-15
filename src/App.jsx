@@ -2,7 +2,6 @@ import { useState } from 'react'
 import {Header} from './components/Header/Header';
 import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 import {Main} from './components/Main.jsx';
-import { Gallery } from './components/Gallery/Gallery';
 // import reactLogo from './assets/react.svg'
 // import './App.css'
 
