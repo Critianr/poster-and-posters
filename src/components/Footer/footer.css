@@ -1,3 +1,4 @@
+
 .container-footer{
     /* bottom: 800px; */
     width: 320px;
@@ -11,14 +12,14 @@
 
 }
 .contact{
-    display: flex;
+    /* display: flex;
     justify-items: center;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-around; */
     
 }
 .contact >a{
-    padding: 0 5px;
+    /* padding: 0 5px; */
 }
 .icons-followers{
     /* display: flex;
